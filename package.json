@@ -1,0 +1,24 @@
+{
+  "name": "server-gaphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaotelesk/server-grapql.git"
+  },
+  "keywords": [],
+  "author": "Joao Teles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaotelesk/server-grapql/issues"
+  },
+  "homepage": "https://github.com/joaotelesk/server-grapql#readme",
+  "dependencies": {
+    "apollo-server": "^3.12.0",
+    "graphql": "^16.6.0"
+  }
+}
